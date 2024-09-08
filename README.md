@@ -35,7 +35,6 @@ Faça um programa que leia 5 valores inteiros. Conte quantos destes valores digi
 
 - A quantidade de valores pares digitados.
 
----
 
 ## 3. Soma de Ímpares Consecutivos
 
