@@ -1,2 +1,2 @@
-# Maratona_Minha-primeira-vez
+# Maratona Fatec Carapicuiba
 Maratona de programação
