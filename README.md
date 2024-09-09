@@ -1,6 +1,7 @@
 # Desafios URI Fatec Carapicuiba
 
-Colaboradores: [https://github.com/Kevin-pyth][Kevin Bezerra]
+Alunos: [Kevin Bezerra Soares](https://github.com/Kevin-pyth]) e Felipe Carvalho Coronado Oropeza
+
 Este repositório contém soluções para três problemas de programação. Abaixo, você encontrará uma breve descrição de cada problema e as instruções de entrada e saída para cada um.
 
 ## 1. Imposto de Renda
